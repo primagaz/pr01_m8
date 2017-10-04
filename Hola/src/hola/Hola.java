@@ -16,6 +16,8 @@ public class Hola {
      */
     public static void main(String[] args) {
         //Help
+        System.out.println("2.0");
+        
     }
     
 }
